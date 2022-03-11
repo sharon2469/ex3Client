@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex3Client</string>
+    <string name="activity_main_textview_title">This app demonstrates the call to other Activities in other applications using the Intent object</string>
+    <string name="activity_main_button_call">Call</string>
+    <string name="activity_main_button_surf">Surf</string>
+    <string name="activity_main_button_email">eMail</string>
+    <string name="activity_main_button_register">Register</string>
+    <string name="register_text_view_txt">%1$s %2$s, %3$s</string>
+</resources>
